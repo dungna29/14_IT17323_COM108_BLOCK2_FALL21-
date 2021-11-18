@@ -5,7 +5,17 @@
       "ProjectGuid": "8633dfc4-9795-43b2-8a81-a5a0e0c06c80",
       "DisplayName": "14_IT17323_COM108_BLOCK2_FALL21",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f07ac31a-80c2-44a3-8c53-703b1f5b91c2": {
+      "ProjectGuid": "f07ac31a-80c2-44a3-8c53-703b1f5b91c2",
+      "DisplayName": "Bai_1.0_GioiThieuLapTrinhC",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
