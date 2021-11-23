@@ -1,0 +1,6 @@
+﻿  Main.c
+E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_BLOCK2\14_IT17323_COM108_BLOCK2_FALL21-\14_IT17323_COM108_BLOCK2_FALL21\Bai_1.3_NhapDuLieuTuBanPhim\Main.c(56,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_BLOCK2\14_IT17323_COM108_BLOCK2_FALL21-\14_IT17323_COM108_BLOCK2_FALL21\Bai_1.3_NhapDuLieuTuBanPhim\Main.c(56,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_BLOCK2\14_IT17323_COM108_BLOCK2_FALL21-\14_IT17323_COM108_BLOCK2_FALL21\Bai_1.3_NhapDuLieuTuBanPhim\Main.c(56,10): message : the missing variadic argument 2 is required by format string '%c'
+E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_BLOCK2\14_IT17323_COM108_BLOCK2_FALL21-\14_IT17323_COM108_BLOCK2_FALL21\Bai_1.3_NhapDuLieuTuBanPhim\Main.c(56,10): message : this argument is used as a buffer size
+  Bai_1.3_NhapDuLieuTuBanPhim.vcxproj -> E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_BLOCK2\14_IT17323_COM108_BLOCK2_FALL21-\14_IT17323_COM108_BLOCK2_FALL21\x64\Debug\Bai_1.3_NhapDuLieuTuBanPhim.exe
