@@ -35,7 +35,27 @@
       "ProjectGuid": "01914d9a-7f12-45a0-ba68-486b0613be60",
       "DisplayName": "Bai_1.4_ToanTuTrongLapTrinh",
       "ColorIndex": 5
+    },
+    "b2c2aba1-4201-4d63-bc02-8a670744e922": {
+      "ProjectGuid": "b2c2aba1-4201-4d63-bc02-8a670744e922",
+      "DisplayName": "Bai_1.5_CauDieuKien",
+      "ColorIndex": 6
+    },
+    "e5316860-a3e7-4b9e-8f9a-c09412317ef7": {
+      "ProjectGuid": "e5316860-a3e7-4b9e-8f9a-c09412317ef7",
+      "DisplayName": "Bai_1.6_SwitchCase",
+      "ColorIndex": 7
+    },
+    "c741fbd0-c3da-4814-997e-4b231c82a66b": {
+      "ProjectGuid": "c741fbd0-c3da-4814-997e-4b231c82a66b",
+      "DisplayName": "Bai_1.7_3LoaiVongLap",
+      "ColorIndex": 8
+    },
+    "5fb6096d-79d9-447f-99e2-b6c945b64b63": {
+      "ProjectGuid": "5fb6096d-79d9-447f-99e2-b6c945b64b63",
+      "DisplayName": "BAI_TAP_SWITCH_CASE",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 10
 }
