@@ -55,7 +55,22 @@
       "ProjectGuid": "5fb6096d-79d9-447f-99e2-b6c945b64b63",
       "DisplayName": "BAI_TAP_SWITCH_CASE",
       "ColorIndex": 9
+    },
+    "8b1c1772-2c29-48fe-bf2d-06704091c567": {
+      "ProjectGuid": "8b1c1772-2c29-48fe-bf2d-06704091c567",
+      "DisplayName": "BAI_TAP_VONG_LAP",
+      "ColorIndex": 10
+    },
+    "6485810c-05a7-479b-8e9a-e45fc7d04196": {
+      "ProjectGuid": "6485810c-05a7-479b-8e9a-e45fc7d04196",
+      "DisplayName": "Bai_1.8_HamVoid",
+      "ColorIndex": 11
+    },
+    "fb87f7c7-7faf-40a0-8fe6-46c6813d16a9": {
+      "ProjectGuid": "fb87f7c7-7faf-40a0-8fe6-46c6813d16a9",
+      "DisplayName": "BAI_TAP_MAU_HAM_VOID",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 13
 }
