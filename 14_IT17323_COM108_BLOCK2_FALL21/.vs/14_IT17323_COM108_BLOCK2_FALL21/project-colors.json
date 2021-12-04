@@ -70,7 +70,17 @@
       "ProjectGuid": "fb87f7c7-7faf-40a0-8fe6-46c6813d16a9",
       "DisplayName": "BAI_TAP_MAU_HAM_VOID",
       "ColorIndex": 12
+    },
+    "b9222ba1-84d8-402f-8324-bd6e0176cf1f": {
+      "ProjectGuid": "b9222ba1-84d8-402f-8324-bd6e0176cf1f",
+      "DisplayName": "CHUA_BAI_LAB12",
+      "ColorIndex": 13
+    },
+    "33d7d9aa-f5f5-42a4-942b-fbcd3d825013": {
+      "ProjectGuid": "33d7d9aa-f5f5-42a4-942b-fbcd3d825013",
+      "DisplayName": "Bai_1.9_HamTraVe",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 15
 }
