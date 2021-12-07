@@ -40,6 +40,6 @@ int main()
 	printf_s("Tong = %d\n", tinhTong2B(5, 7)+2000);
 	int a = tinhTong2B(5, 7);
 
-	//Lưu ý: Khi mới học thì hãy con cả hàm trả về là 1 giá trị.
+	//Lưu ý: Khi mới học thì hãy coi cả hàm trả về là 1 giá trị.
 	
 }
