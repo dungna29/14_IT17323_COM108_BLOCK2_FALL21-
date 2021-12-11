@@ -1,2 +1,3 @@
 ﻿  Main.c
+E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_BLOCK2\14_IT17323_COM108_BLOCK2_FALL21-\14_IT17323_COM108_BLOCK2_FALL21\BAI_TAP_MAU_MANG\Main.c(36,11): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
   BAI_TAP_MAU_MANG.vcxproj -> E:\Dungna29 Fpoly\8. Demo\Demo C\FALL21_BLOCK2\14_IT17323_COM108_BLOCK2_FALL21-\14_IT17323_COM108_BLOCK2_FALL21\x64\Debug\BAI_TAP_MAU_MANG.exe

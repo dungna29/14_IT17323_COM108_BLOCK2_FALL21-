@@ -95,7 +95,17 @@
       "ProjectGuid": "73f220bf-f8a5-47c8-9a26-c9b590395ab1",
       "DisplayName": "BAI_TAP_MAU_MANG",
       "ColorIndex": 1
+    },
+    "b3cdec8c-c6c6-42d1-83a4-9be4b49d6154": {
+      "ProjectGuid": "b3cdec8c-c6c6-42d1-83a4-9be4b49d6154",
+      "DisplayName": "Bai_2.2_StringTrongC",
+      "ColorIndex": 2
+    },
+    "c824671b-fcaa-4460-b435-5b6e91b4011f": {
+      "ProjectGuid": "c824671b-fcaa-4460-b435-5b6e91b4011f",
+      "DisplayName": "Bai_2.3_HamCuaCHuoi",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }
