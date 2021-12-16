@@ -105,7 +105,12 @@
       "ProjectGuid": "c824671b-fcaa-4460-b435-5b6e91b4011f",
       "DisplayName": "Bai_2.3_HamCuaCHuoi",
       "ColorIndex": 3
+    },
+    "885ec896-a68c-4bea-921b-c0884c53e8c5": {
+      "ProjectGuid": "885ec896-a68c-4bea-921b-c0884c53e8c5",
+      "DisplayName": "VIDU_CACHAMTRONG_C",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
